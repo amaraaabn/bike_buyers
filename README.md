@@ -23,7 +23,7 @@ For each dataset, I tested three different models:
 - **Decision Tree Classifier**
 - **Random Forest Classifier**
 
-The model selection was based on the model’s performance, with a focus on both the accuracy score and the consistency of performance during cross-validation.
+The model selection was based on the model’s performance, with a focus on both the scores on classification report and the consistency of performance during cross-validation.
 
 ## Key Takeaways
 
@@ -39,8 +39,8 @@ The model selection was based on the model’s performance, with a focus on both
   1. **Age**
   2. **Income**
   3. **Commute Distance**
-  
-  Among these, **commute distance** emerged as the most important factor influencing the likelihood of purchasing a bike. This insight suggests that the bike company could focus on targeting urban commuters from the **Upper-Middle-Class** segment, as they are more likely to be interested in biking.
+
+    Among these, **Age** emerged as the most important factor influencing the likelihood of purchasing a bike. This insight suggests that the bike company could focus on targeting urban commuters from the **Upper-Middle-Class** segment with specific **Age** and **Commute Distance** segmentation, as they are more likely to be interested in biking.
 
 These findings provide actionable insights that can inform future marketing strategies, product development, and customer segmentation.
 
